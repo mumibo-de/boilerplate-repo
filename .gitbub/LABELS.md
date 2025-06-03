@@ -1,4 +1,4 @@
-# 🏷️ GitHub Labelstruktur – Wikonia Cockpit
+# 🏷️ GitHub Labelstruktur – !!! PROJEKTNAME !!!
 
 Standardisierte Labels für Issues in diesem Repository – für Klarheit, Struktur und Effizienz.
 
@@ -52,7 +52,7 @@ Standardisierte Labels für Issues in diesem Repository – für Klarheit, Struk
 | `module: legal`        | Rechtliches: AGB, DSGVO, Zustimmung  |
 | `module: cockpit-core` | Logging, Adminfunktionen, Config     |
 | `module: ui`           | Optik, Design, Panels                |
-| `status: tilt`         | (Optionaler Gag) System denkt sich: nope. |
+| `status: tilt`         | (Gag) System denkt sich: nope.       |
 
 ---
 
